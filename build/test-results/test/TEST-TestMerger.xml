@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestMerger" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-18T15:32:31" hostname="DESKTOP-3V6L4C2" time="0.127">
+  <properties/>
+  <testcase name="testMergeResultType()" classname="TestMerger" time="0.029"/>
+  <testcase name="testMergeNormal()" classname="TestMerger" time="0.004"/>
+  <testcase name="[1] [45, 31, 24], [31, 18, 15, 12]" classname="TestMerger" time="0.045"/>
+  <testcase name="[2] [0], [0]" classname="TestMerger" time="0.003"/>
+  <system-out><![CDATA[Tests started
+Test started
+Test complete:10
+Test started
+Test complete:3
+Test started
+Test complete:44
+Test started
+Test complete:1
+Tests complete: 141
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
